@@ -15,6 +15,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .button {
 }
 .primary_button {
@@ -99,6 +101,9 @@
 .menu_item {
 }
 .connector {
+}
+.sticky_1 {
+  text-align:left;
 }
 .sticky_2 {
   text-align:left;
